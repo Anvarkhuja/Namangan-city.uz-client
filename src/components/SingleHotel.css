@@ -1,0 +1,41 @@
+p{
+    color: rgb(34, 116, 211);
+    text-align: center;
+    margin-top: 10px;
+    font-size: 26px;
+}
+
+h3{
+    display: flex;
+    
+    justify-content: center;
+    margin-top: 10px;
+    
+}
+h3 a{
+    color: rgb(253, 33, 33);
+    display: flex;
+   
+  
+    justify-content: center;
+    margin-top: 10px;
+   
+    font-size: 26px;
+}
+
+h3 i{
+    color: rgb(253, 46, 46);
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+   
+    font-size: 26px;
+    
+}
+
+.lorem{
+   color: rgb(30, 32, 32);
+   padding: 45px;
+   font-size: 18px;
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

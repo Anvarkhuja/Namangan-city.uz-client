@@ -1,0 +1,62 @@
+.cards-about{
+
+    background-color: #fff;
+    width: 100%;
+   
+    
+    
+}
+
+
+.cards_about_img{
+    margin-top: 20px;
+    max-width: 80%;
+    
+    display: block;  
+    margin-left: auto;  
+    margin-right: auto;  
+    border: 8px ridge rgba(159, 159, 228, 0.623);  
+    padding: 0; 
+    
+    
+}
+.cards__title h1{
+    background-color: #fff;
+    color: rgb(43, 43, 48);
+    font-size: 31px;
+    margin-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cards__title h2{
+    background-color: #fff;
+    padding: 40px;
+    color: rgb(38, 38, 43);
+    font-size: 21px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 32px;
+    
+}
+.cards__title h2 span{
+    background-color: #fff;
+    padding: 40px;
+    color: rgb(38, 38, 43);
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 32px;
+}
+.cards__title h2 a{
+    text-decoration: none;
+}
+
+
+@media screen and (max-width: 960px){
+    .cards__title h1{
+        font-size: 25px;
+    }
+    .cards__title h2{
+        font-size: 16px;
+       padding-top: 40px;
+       padding-right: 20px;
+       padding-left: 20px;
+    }
+}

@@ -1,0 +1,35 @@
+.cards1 {
+    /* padding: 2rem; */
+    background: #bfd9f1;
+    
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .cards__container1 {
+    display: grid;
+    grid-row: 3;
+    align-items: center;
+    max-width: 1120px;
+    width: 100%;
+    margin: 0 auto;
+  }
+  
+  .cards__wrapper1 {
+    position: relative;
+    
+  }
+  
+  .cards__items1 {
+    margin-bottom: 20px;
+  
+  }
+  
+  .cards__item1 {
+    display: flex;
+    flex: 1;
+    margin: 0 1rem;
+    border-radius: 10px;
+  }
